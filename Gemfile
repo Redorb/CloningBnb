@@ -16,6 +16,7 @@ gem 'toastr-rails'
 gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'font-awesome-sass'
+gem 'paperclip'
 
 group :development, :test do
   gem 'web-console', '~> 2.0'
