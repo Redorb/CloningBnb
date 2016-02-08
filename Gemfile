@@ -17,6 +17,7 @@ gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'font-awesome-sass'
 gem 'paperclip'
+gem 'geocoder'
 
 group :development, :test do
   gem 'web-console', '~> 2.0'
