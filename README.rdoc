@@ -1,2 +1,1 @@
-Working on a clone of airbnb, partially a tut on code4startup. 
-(https://code4startup.com/projects/airalien-clone-airbnb-with-ruby-on-rails-bootstrap-jquery-and-paypal)
+Working on a clone of airbnb
